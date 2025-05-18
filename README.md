@@ -29,7 +29,7 @@ Mobile Design
 
 ### Links
 
-- Live Site URL:(https://yousefadelgit.github.io/recipe-paga-main/)
+- Live Site URL:(https://yousefadelgit.github.io/recipe-page/)
 
 ## My process
 
